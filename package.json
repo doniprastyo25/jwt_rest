@@ -1,0 +1,19 @@
+{
+  "name": "jwt_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.5.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
